@@ -16,18 +16,33 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a high school student who lives in Vietnam. I'm learning how to code. I love making and designing webpages with HTML and CSS (and possible JavaScript in the future).  It's fun to code something that anyone on the web can easily see. I also enjoy programming in Python because they challenge me more. I love it when I can finally solve a difficult problem.
+<h1 align="center">Hi 👋, I'm LeMon</h1>
+<h3 align="center">A self-learning student from Vietnam</h3>
 
-For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lemonn05&label=Profile%20views&color=0e75b6&style=flat" alt="lemonn05" /> </p>
 
-- 🌱 I’m currently learning HTML, CSS, JS, Python.
-- 🔭 I’m currently working on creating webpages and learning how to program.
-- 😀 I like to code, read, and watch anime in my free time.
-- 💬 Ask me about fountain pens.
-- ⚡ Fun fact: My first line of code was not "Hello World!"
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemonn05" alt="lemonn05" /></a> </p>
 
-[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=Lemonn05)](https://github.com/Lemonn05/github-readme-stats&theme=synthwave)
+- 🌱 I’m currently learning **Frontend**
 
+- 🤝 I’m looking for help with **Javascripts**
 
-[Lemonn05](https://github.com/Lemonn05)
-Last Edited on: 25/01/2021
+- 💬 Ask me about **Python, HTML, CSS**
+
+- 📫 How to reach me **quangtangdung@gmail.com**
+
+- 📄 Know about my experiences [I'm new to coding, so I haven't much exp](I'm new to coding, so I haven't much exp)
+
+- ⚡ Fun fact **I like to watch Anime**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/lemoon247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lemoon247/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lemonn05&show_icons=true&locale=en&layout=compact" alt="lemonn05" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemonn05&show_icons=true&locale=en" alt="lemonn05" /></p>

@@ -26,7 +26,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 💬 Ask me about fountain pens.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
-[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=Lemonn05)](https://github.com/Lemonn05/github-readme-stats&icon_color=f8333c)
+[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=Lemonn05)](https://github.com/Lemonn05/github-readme-stats&theme=synthwave)
 
 
 [Lemonn05](https://github.com/Lemonn05)

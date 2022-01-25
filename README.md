@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Banner](https://raw.githubusercontent.com/Lemonn05/Lemonn05/master/profileavatarbanner.png)
+
 
 I'm a high school student who lives in Vietnam. I'm learning how to code. I love making and designing webpages with HTML and CSS (and possible JavaScript in the future).  It's fun to code something that anyone on the web can easily see. I also enjoy programming in Python because they challenge me more. I love it when I can finally solve a difficult problem.
 

@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **quangtangdung@gmail.com**
 
-- 📄 Know about my experiences: I'm new to coding, so I haven't much exp
+- 📄 Know about my experiences: **I'm new to coding, I haven't much exp
 
 - ⚡ Fun fact: **I like to watch Anime**
 

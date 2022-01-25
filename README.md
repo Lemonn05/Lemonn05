@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about: **Any thing ... if I can answer you**
 
-- 📫 How to reach me: **quangtangdung@gmail.com**
-
-- 📄 Know about my experiences: **I'm new to coding, I haven't much exp**
+- 😄 Pronouns: **Go far as stupidly as you can**
 
 - ⚡ Fun fact: **I like to watch Anime**
 

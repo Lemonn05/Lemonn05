@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about: **Any thing ... if I can answer you**
 
-- 😄 Pronouns: **Go far as stupidly as you can**
+- 😄 Pronouns: **No pain, no gain**
 
 - ⚡ Fun fact: **I like to watch Anime**
 

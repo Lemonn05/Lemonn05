@@ -21,19 +21,18 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemonn05&label=Profile%20views&color=0e75b6&style=flat" alt="lemonn05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemonn05" alt="lemonn05" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning: **Frontend**
 
-- 🤝 I’m looking for help with **Javascripts**
+- 🤝 I’m looking for help with: **Javascripts**
 
-- 💬 Ask me about **Python, HTML, CSS**
+- 💬 Ask me about: **Python, HTML, CSS**
 
-- 📫 How to reach me **quangtangdung@gmail.com**
+- 📫 How to reach me: **quangtangdung@gmail.com**
 
-- 📄 Know about my experiences [I'm new to coding, so I haven't much exp](I'm new to coding, so I haven't much exp)
+- 📄 Know about my experiences: [I'm new to coding, so I haven't much exp](I'm new to coding, so I haven't much exp)
 
-- ⚡ Fun fact **I like to watch Anime**
+- ⚡ Fun fact: **I like to watch Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
